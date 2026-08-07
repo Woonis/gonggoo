@@ -1,20 +1,4 @@
 {
-  "updatedAt": "2026-08-07T00:37:53.864Z",
-  "schedules": [
-    {
-      "id": "smsi7ttb80",
-      "brand": "ㅂㅂㅂㅈ",
-      "product": "ㅇㅇㅇㅇ",
-      "category": "육아",
-      "startDate": "2026-08-07",
-      "startTime": "10:00",
-      "endDate": "2026-08-07",
-      "endTime": "23:59",
-      "link": "https://www.naver.com/",
-      "price": 30000,
-      "originalPrice": 200000,
-      "note": "",
-      "color": "#fce38a"
-    }
-  ]
+  "updatedAt": "2026-08-07T00:37:56.495Z",
+  "schedules": []
 }
