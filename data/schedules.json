@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-08-07T00:10:42.827Z",
+  "schedules": [
+    {
+      "id": "smsi6v8uc0",
+      "brand": "ㅎㅎㅎㅎㅎㅎ",
+      "product": "ㅎㅎㅎ",
+      "category": "육아",
+      "startDate": "2026-08-07",
+      "startTime": "10:00",
+      "endDate": "2026-08-07",
+      "endTime": "23:59",
+      "link": "https://www.naver.com/",
+      "price": 10000,
+      "originalPrice": 20000,
+      "note": "gg",
+      "color": "#aa96da"
+    }
+  ]
+}
