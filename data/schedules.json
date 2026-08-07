@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-07T01:04:28.484Z",
+  "updatedAt": "2026-08-07T01:08:24.780Z",
   "schedules": [
+    {
+      "id": "smsi8xgak1",
+      "brand": "타티네쇼콜라",
+      "product": "아기옷",
+      "category": "육아",
+      "startDate": "2026-08-05",
+      "startTime": "11:00",
+      "endDate": "2026-08-07",
+      "endTime": "11:00",
+      "link": "https://event.wconcept.co.kr/event/132828?utm_medium=paid&utm_source=ig&utm_id=120253726451740712&utm_content=120253726451750712&utm_term=120253726451760712&utm_campaign=120253726451740712",
+      "price": 66440,
+      "originalPrice": 100000,
+      "note": "타티네쇼콜라 떠블류컨셉 라이브",
+      "color": "#e87ba4"
+    },
     {
       "id": "smsi8s9n60",
       "brand": "솔비치",
