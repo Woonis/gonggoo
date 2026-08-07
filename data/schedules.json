@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-07T01:08:29.223Z",
+  "updatedAt": "2026-08-07T01:39:31.480Z",
   "schedules": [
+    {
+      "id": "smsia1goz0",
+      "brand": "일프로연산",
+      "product": "-",
+      "category": "육아",
+      "startDate": "2026-08-04",
+      "startTime": "10:00",
+      "endDate": "2026-08-07",
+      "endTime": "23:59",
+      "link": "https://shopping.naver.com/festa/onsale/6a62b78754bac44c29aa46c0",
+      "price": null,
+      "originalPrice": null,
+      "note": "",
+      "color": "#4a3aa7"
+    },
     {
       "id": "smsi8xgak1",
       "brand": "타티네쇼콜라",
