@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:37:38.558Z",
+  "updatedAt": "2026-08-07T00:37:52.326Z",
   "schedules": [
     {
       "id": "smsi6v8uc0",
@@ -30,21 +30,6 @@
       "originalPrice": 200000,
       "note": "",
       "color": "#fce38a"
-    },
-    {
-      "id": "smsi6wbgc1",
-      "brand": "qqqq",
-      "product": "qqq",
-      "category": "생활용품",
-      "startDate": "2026-08-08",
-      "startTime": "10:00",
-      "endDate": "2026-08-14",
-      "endTime": "23:59",
-      "link": "https://www.naver.com/",
-      "price": 2000,
-      "originalPrice": 30000,
-      "note": "g",
-      "color": "#c8a2e0"
     }
   ]
 }
