@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:39:35.403Z",
+  "updatedAt": "2026-08-07T02:09:43.033Z",
   "schedules": [
     {
       "id": "smsia1goz0",
@@ -15,6 +15,21 @@
       "originalPrice": null,
       "note": "",
       "color": "#4a3aa7"
+    },
+    {
+      "id": "smsib4a9x1",
+      "brand": "알펜시아",
+      "product": "평창",
+      "category": "여행",
+      "startDate": "2026-08-04",
+      "startTime": "10:00",
+      "endDate": "2026-08-09",
+      "endTime": "23:59",
+      "link": "https://www.allmytour.com/products/3737?utm_source=tagby&utm_medium=cpc&utm_campaign=HolidayInn_sweet_Alpensia&utm_id=a1217&utm_content=_onioni.mom",
+      "price": null,
+      "originalPrice": null,
+      "note": "",
+      "color": "#1baf7a"
     },
     {
       "id": "smsi8xgak1",
